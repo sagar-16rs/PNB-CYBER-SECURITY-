@@ -38,7 +38,7 @@ An agentless, multi-threaded DevSecOps scanning engine that maps an organization
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/sagar-16rs/PNB-CYBER-SECURITY-]
+   git clone [https://github.com/sagar-16rs/PNB-CYBER-SECURITY-.git]
    cd quantum-scanner
    ```
 
